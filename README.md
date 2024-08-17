@@ -1,6 +1,6 @@
 # django-todo
 
-This project is a web application built using Python and Django, demonstrating the fundamental CRUD
+This project is a web application built using Python and Django, demonstrating the fundamental CRUD,
   C- Create
   R- Read
   U- Update
