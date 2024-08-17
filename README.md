@@ -9,3 +9,7 @@ operations for managing a list.
 
  The application provides a simple and intuitive interface for users to add, view, edit, and delete items from a list, 
  showcasing Django's powerful and flexible capabilities for building dynamic web applications.
+
+
+ Steps to run the Projects
+ 
