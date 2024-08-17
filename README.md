@@ -1,7 +1,7 @@
 
 # django-todo
 
-A brief & easy description about the project and it's for Begineer's to get the very basic idea about Django.
+A brief & easy description about the project and it's for Beginner's to get the very basic idea about Django.
 
 
 ## About the Project
